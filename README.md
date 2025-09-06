@@ -39,6 +39,6 @@ Bu proje, "Talent Academy Case DT 2025" veri seti için sağlam bir veri hazırl
 
 ## Notlar
 - Pipeline, eksik değerler, aykırı değerler ve karmaşık kategorik/çoklu değerli değişkenleri otomatik olarak işler.
-- Scripti model eğitimi veya işlenmiş veriyi dışa aktarmak için daha da geliştirebilirsiniz.
 
 ---
+
